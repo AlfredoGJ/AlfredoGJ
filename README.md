@@ -1,8 +1,13 @@
-# Hi there 👋
+<div >
+		<img src="/assets/svg/header.svg" visibility="collapse" alt="Click to see the source"/>
 
-<section>
-<img src="assets/img/alfredo-granja-planeswalker.png" />
+</div>
+<h1> Hello there, my name is Alredo Granja</h1>
+<section class ="row">
+<img width="200" src="assets/img/alfredo-granja-planeswalker.png" />
+<div>Im a fullstack developer with 4 years of experience in...</div>
 </section>
+ 
 <!--
 **AlfredoGJ/AlfredoGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
