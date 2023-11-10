@@ -8,17 +8,18 @@ like to create beautiful and useful UI, along with efficient and easy to use sys
 <div align="center">
 <div align="left">
 
-<div width="33%" align ="right">Hello world</div>
-<a width="33%" align ="left"><div>Hello world</div></a>
+<div  align ="right">Right</div>
+<a  align ="left"><div>Hello world</div></a>
 
 </div>
-<div width="33%">Hello world</div>
+<div align="left" >Hello world</div>
+<div >Hello world</div>
 </div>
 </div>
 </section>
 <br/>
 
-<!-- <img src="/assets/svg/header.svg" width="400" height="400"> -->
+<img src="/assets/svg/header.svg" width="100%" height="100%">
 
 <!--
 **AlfredoGJ/AlfredoGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
