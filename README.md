@@ -1,7 +1,8 @@
 <h1> Hello there, my name is Alredo Granja</h1>
 <section >
-<img width="250" align="left" src="assets/img/alfredo-granja-planeswalker.png" />
-<div align="right">Im a fullstack developer with 4 years of experience in...</div>
+<img width="33%" align="left" src="assets/img/alfredo-granja-planeswalker.png" />
+<div width ="50%" align="left">I'm a software Engineer with about four years of experience in frontend and backend development using javascript, node and C#. Creative and passionate to learn new things and meet new people. I
+like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience</div>
 </section>
  
 <!--
