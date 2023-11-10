@@ -3,8 +3,7 @@
 <img width="33%" align="left" src="assets/img/alfredo-granja-planeswalker.png" />
 
 <div>
-<h3 width ="50%" align="left">I'm a software Engineer with about four years of experience in frontend and backend development using javascript, node and C#. Creative and passionate to learn new things and meet new people. I
-like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience</h3>
+<h3 width ="50%" align="left">I'm a Fullstack software engineer. I like to be creative and learn new things. I like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience</h3>
 
 <div align="center" >
   <h3 >Connect with me: </h3>
