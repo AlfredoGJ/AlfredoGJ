@@ -1,5 +1,5 @@
 <h1> Hello there, my name is Alredo Granja</h1>
-<section >
+<!-- <section >
 <img width="33%" align="left" src="assets/img/alfredo-granja-planeswalker.png" />
 <div>
 <h3 width ="50%" align="left">I'm a software Engineer with about four years of experience in frontend and backend development using javascript, node and C#. Creative and passionate to learn new things and meet new people. I
@@ -17,7 +17,7 @@ like to create beautiful and useful UI, along with efficient and easy to use sys
 </div>
 </div>
 </section>
-<br/>
+<br/> -->
 
 <img src="/assets/svg/header.svg" width="100%" height="100%">
 
