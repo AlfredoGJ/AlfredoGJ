@@ -17,6 +17,17 @@ like to create beautiful and useful UI, along with efficient and easy to use sys
 </div>
 </section>
 
+<table border="0" align="center" width="100%">
+ <!-- <tr border="0">
+    <td><b >Title</b></td>
+    <td><b >Title 2</b></td>
+ </tr> -->
+ <tr border= "0">
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 <br/>
 <br/>
 <br/>
