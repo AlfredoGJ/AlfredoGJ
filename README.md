@@ -7,11 +7,11 @@
 like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience</h3>
 
 <div align="center" >
-  <h3>Connect with me: </h3>
-  <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a>
-  <a href="#"><img src="./assets/svg/facebook-icon.svg" width="30"/></a>
-  <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a>
-  <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a>
+  <h3 >Connect with me: </h3>
+  <a href="www.linkedin.com/in/alfredo-granja"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100012815117000"><img src="./assets/svg/facebook-icon.svg" width="30"/></a>
+  <!-- <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a>
+  <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a> -->
 </div>
 
 </div>
