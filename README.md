@@ -17,6 +17,7 @@ like to create beautiful and useful UI, along with efficient and easy to use sys
 </div>
 </section>
 
+<div align ="center">
 <table border="0" align="center" width="100%">
  <!-- <tr border="0">
     <td><b >Title</b></td>
@@ -27,7 +28,7 @@ like to create beautiful and useful UI, along with efficient and easy to use sys
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
-
+</div>
 <br/>
 <br/>
 <br/>
