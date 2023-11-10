@@ -18,11 +18,11 @@ like to create beautiful and useful UI, along with efficient and easy to use sys
 </section>
 
 <div align ="center">
-<table border="0" align="center" width="100%">
- <!-- <tr border="0">
+<table border="0"  width="100%">
+ <tr border="0">
     <td><b >Title</b></td>
     <td><b >Title 2</b></td>
- </tr> -->
+ </tr>
  <tr border= "0">
     <td>Lorem ipsum ...</td>
     <td>Lorem ipsum ...</td>
