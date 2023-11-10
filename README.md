@@ -1,10 +1,10 @@
 <div >
-		<img src="/assets/svg/header.svg" visibility="collapse" alt="Click to see the source"/>
+		<img src="/assets/svg/header.svg" visibility="collapse" />
 
 </div>
 <h1> Hello there, my name is Alredo Granja</h1>
 <section class ="row">
-<img width="200" src="assets/img/alfredo-granja-planeswalker.png" />
+<img width="250" src="assets/img/alfredo-granja-planeswalker.png" />
 <div>Im a fullstack developer with 4 years of experience in...</div>
 </section>
  
