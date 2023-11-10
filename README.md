@@ -3,7 +3,7 @@
 <img width="33%" align="left" src="assets/img/alfredo-granja-planeswalker.png" />
 
 <div>
-<h3 width ="50%" align="left">I'm a Fullstack software engineer. I like to be creative and learn new things. I like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience</h3>
+<h3 width ="50%" align="left">I'm a Fullstack software engineer. I like to be creative and learn new things. I like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience.</h3>
 
 <div align="center" >
   <h3 >Connect with me: </h3>
@@ -17,7 +17,7 @@
 </section>
 
 <div align ="center">
-<table border="0"  width="100%">
+<table cellspacing="0" cellpadding="0"  width="100%">
  <tr border="0">
     <td><b >Title</b></td>
     <td><b >Title 2</b></td>
