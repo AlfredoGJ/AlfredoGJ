@@ -5,9 +5,13 @@
 <h3 width ="50%" align="left">I'm a software Engineer with about four years of experience in frontend and backend development using javascript, node and C#. Creative and passionate to learn new things and meet new people. I
 like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience</h3>
 
-<div align="center" style="display:flex; flex-direction:row;">
-<a width="33%"><div>Hello world</div></a>
-<div width="33%">Hello world</div>
+<div align="center">
+<div align="left">
+
+<div width="33%" align ="right">Hello world</div>
+<a width="33%" align ="left"><div>Hello world</div></a>
+
+</div>
 <div width="33%">Hello world</div>
 </div>
 </div>
@@ -15,7 +19,7 @@ like to create beautiful and useful UI, along with efficient and easy to use sys
 <br/>
 
 <!-- <img src="/assets/svg/header.svg" width="400" height="400"> -->
- 
+
 <!--
 **AlfredoGJ/AlfredoGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
