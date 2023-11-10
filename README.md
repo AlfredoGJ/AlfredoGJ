@@ -1,6 +1,7 @@
 <h1> Hello there, my name is Alredo Granja</h1>
 <section >
 <img width="33%" align="left" src="assets/img/alfredo-granja-planeswalker.png" />
+
 <div>
 <h3 width ="50%" align="left">I'm a software Engineer with about four years of experience in frontend and backend development using javascript, node and C#. Creative and passionate to learn new things and meet new people. I
 like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience</h3>
@@ -15,8 +16,25 @@ like to create beautiful and useful UI, along with efficient and easy to use sys
 
 </div>
 </section>
+
+<br/>
+<br/>
+<br/>
+<hr>
 <br/>
 
+<h2>🔭 I’m currently working on</h2>
+<ul>
+<li>Project 1</li>
+<li>Project 2</li>
+<li>Project 3</li>
+</ul>
+<h2>🌱 I’m currently learning</h2>
+<ul>
+<li>Learning 1</li>
+<li>Learning 2</li>
+<li>Learning 3</li>
+</ul>
 <!--
 **AlfredoGJ/AlfredoGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
