@@ -1,7 +1,7 @@
 <h1> Hello there, my name is Alredo Granja</h1>
 <section style ="display:flex; flex-direction:row">
 <img width="250" src="assets/img/alfredo-granja-planeswalker.png" />
-<h2 style="padding-left:2vw;">Im a fullstack developer with 4 years of experience in...</h2>
+<div style="padding-left:2vw;">Im a fullstack developer with 4 years of experience in...</div>
 </section>
  
 <!--
