@@ -7,11 +7,12 @@ like to create beautiful and useful UI, along with efficient and easy to use sys
 </div>
 </section>
 <br/>
-<p align="center">
+<div align="center" style="display:flex; flex-direction:row;">
 <a width="33%"><div>Hello world</div></a>
 <div width="33%">Hello world</div>
 <div width="33%">Hello world</div>
-</p>
+</div>
+<!-- <img src="/assets/svg/header.svg" width="400" height="400"> -->
  
 <!--
 **AlfredoGJ/AlfredoGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
