@@ -1,11 +1,7 @@
-<div >
-		<img src="/assets/svg/header.svg" visibility="collapse" />
-
-</div>
 <h1> Hello there, my name is Alredo Granja</h1>
-<section class ="row">
+<section style ="display:flex; flex-direction:row">
 <img width="250" src="assets/img/alfredo-granja-planeswalker.png" />
-<div>Im a fullstack developer with 4 years of experience in...</div>
+<h2 style="padding-left:2vw;">Im a fullstack developer with 4 years of experience in...</h2>
 </section>
  
 <!--
