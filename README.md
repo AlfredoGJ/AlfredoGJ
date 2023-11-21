@@ -16,8 +16,19 @@
 </div>
 </section>
 
+
+<div align="center">
+	<br>
+	<a href="">
+		<img src="/assets/svg/header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
+
+
+
 <div align ="center">
-<table cellspacing="0" cellpadding="0"  width="100%">
+<table cellspacing="0" cellpadding="0">
  <tr border="0">
     <td><b >Title</b></td>
     <td><b >Title 2</b></td>
