@@ -86,7 +86,7 @@
 				<p>Click to see the source</p>
 			</div>
 			<div>
-				<img src="../img/alfredo-granja-planeswalker.png" alt="image should appear here"/>
+				<image href="../img/alfredo-granja-planeswalker.png" x="0" y="0" height="50px" width="50px"/>
 			</div>
 		</div>
 	</foreignObject>
