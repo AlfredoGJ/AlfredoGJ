@@ -32,6 +32,9 @@ I'm a software Engineer with about four years of experience in frontend and back
   <img  align="left" width="32" src="/assets/img/redux-logo.png"  alt="Redux"/>
   <img  align="left" width="32" src="/assets/img/typescript-logo.png"  alt="Typescript"/>
 <div>
+<div>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredoGJ&repo=ThePrismaticCreator)](https://github.com/AlfredoGJ/ThePrismaticCreator)
+</div>
 </div>
 </div>
 </div>
