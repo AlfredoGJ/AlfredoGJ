@@ -1,4 +1,3 @@
-
 <img src="/assets/img/banner.png" width="100%" alt="Banner"/>
 <hr>
 
@@ -13,7 +12,6 @@ I'm a software Engineer with about four years of experience in frontend and back
   <!-- <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a>
   <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a> -->
 </div>
-
 
 <hr>
 <br/>
@@ -33,7 +31,9 @@ I'm a software Engineer with about four years of experience in frontend and back
   <img  align="left" width="32" src="/assets/img/typescript-logo.png"  alt="Typescript"/>
 <div>
 <div>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlfredoGJ&repo=ThePrismaticCreator)](https://github.com/AlfredoGJ/ThePrismaticCreator)
+<a href="https://github.com/AlfredoGJ/ThePrismaticCreator">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=AlfredoGJ&repo=ThePrismaticCreator"/>
+</a>
 </div>
 </div>
 </div>
