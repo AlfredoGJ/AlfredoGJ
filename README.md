@@ -23,7 +23,17 @@ I'm a software Engineer with about four years of experience in frontend and back
 <ul>
 <div>
 <img width="40%" align="left" src="/assets/img/The Prismatic Creator.png"  alt="Banner"/>
-<h4 width="60%" align="center">The Prismatic Creator is a "Magic: The Gathering" card creator that allows the user to create custom cards on an interactive and easy way, its a web app, so you don't need to install anything. It allows to customize most of the aspects of a card on an immediate and responsive way. Thats what differentiate it from other card creators. Also it's intended to export cards in high resolution</h4>
+<div>
+
+<h3 width="60%" align="center">The Prismatic Creator is a "Magic: The Gathering" card creator that allows the user to create custom cards on an interactive and easy way, its a web app, so you don't need to install anything. It allows to customize most of the aspects of a card on an immediate and responsive way. Thats what differentiate it from other card creators. Also it's intended to export cards in high resolution</h3>
+<div>
+  <h3>Stack:</h3>
+  <img  align="left" src="/assets/img/react-logo.png"  alt="React"/>
+  <img  align="left" src="/assets/img/redux-logo.png"  alt="Redux"/>
+  <img  align="left" src="/assets/img/typescript-logo.png"  alt="Typescript"/>
+<div>
+</div>
+</div>
 </div>
 </ul>
 <h2>🌱 I’m currently learning</h2>
