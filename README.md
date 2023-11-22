@@ -1,23 +1,20 @@
-<div align="center">
-		<img src="/assets/img/banner.png" width="100%" alt="Banner"/>
+
+<img src="/assets/img/banner.png" width="100%" alt="Banner"/>
+<hr>
+
+I'm a software Engineer with about four years of experience in frontend and backend development using javascript, node and C#. Creative and passionate to learn new things and meet new people. I like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience.
+<br/>
+<br/>
+
+<div align="left" >
+  <h3 >Connect with me: </h3>
+  <a href="https://www.linkedin.com/in/alfredo-granja/"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100012815117000"><img src="./assets/svg/facebook-icon.svg" width="30"/></a>
+  <!-- <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a>
+  <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a> -->
 </div>
 
-<div align ="center">
-<table cellspacing="0" cellpadding="0">
- <tr border="0">
-    <td><b >Title</b></td>
-    <td><b >Title 2</b></td>
- </tr>
- <tr border= "0">
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
-</div>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <hr>
 <br/>
 <br/>
