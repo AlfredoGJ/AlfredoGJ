@@ -1,31 +1,6 @@
-<h1> Hello there, my name is Alredo Granja</h1>
-<section >
-<img width="33%" align="left" src="assets/img/alfredo-granja-planeswalker.png" />
-
-<div>
-<h3 width ="50%" align="left">I'm a Fullstack software engineer. I like to be creative and learn new things. I like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience.</h3>
-
-<div align="center" >
-  <h3 >Connect with me: </h3>
-  <a href="https://www.linkedin.com/in/alfredo-granja/"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100012815117000"><img src="./assets/svg/facebook-icon.svg" width="30"/></a>
-  <!-- <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a>
-  <a href="#"><img src="./assets/svg/linkedin-icon.svg" width="30"/></a> -->
-</div>
-
-</div>
-</section>
-
-
 <div align="center">
-	<br>
-	<a href="">
-		<img src="/assets/svg/header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
+		<img src="/assets/img/banner.png" width="100%" height="400" alt="Banner"/>
 </div>
-
-
 
 <div align ="center">
 <table cellspacing="0" cellpadding="0">
