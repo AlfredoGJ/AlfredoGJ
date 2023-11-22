@@ -33,6 +33,9 @@ I'm a software Engineer with about four years of experience in frontend and back
 
 <div>
 <br/>
+<br/>
+<br/>
+<br/>
 <a href="https://github.com/AlfredoGJ/ThePrismaticCreator">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AlfredoGJ&repo=ThePrismaticCreator"/>
 </a>
@@ -40,7 +43,6 @@ I'm a software Engineer with about four years of experience in frontend and back
 </div>
 </div>
 </div>
-</ul>
 <h2>🌱 I’m currently learning</h2>
 <ul>
 <li>Learning 1</li>
