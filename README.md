@@ -35,7 +35,6 @@ I'm a software Engineer with about four years of experience in frontend and back
 <br/>
 <br/>
 <br/>
-<br/>
 <a href="https://github.com/AlfredoGJ/ThePrismaticCreator">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AlfredoGJ&repo=ThePrismaticCreator"/>
 </a>
