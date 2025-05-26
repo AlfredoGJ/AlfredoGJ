@@ -1,8 +1,8 @@
 <img src="/assets/img/banner.png" width="100%" alt="Banner"/>
 <hr>
 
-<h3>I'm a software Engineer with about four years of experience in frontend and backend development using javascript, node and C#. Creative and passionate to learn new things and meet new people. I like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience.
-</h3>
+<h2>I'm a software Engineer with about four years of experience in frontend and backend development using javascript, node and C#. Creative and passionate to learn new things and meet new people. I like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience.
+</h2>
 <br/>
 <br/>
 
@@ -24,7 +24,7 @@
 <img width="30%" align="left"  src="/assets/img/The Prismatic Creator.png"  alt="Banner"/>
 <div>
 
-<h2 width="70%" align="center">The Prismatic Creator is a "Magic: The Gathering" card creator that allows the user to create custom cards on an interactive and easy way, its a web app, so you don't need to install anything. It allows to customize most of the aspects of a card on an immediate and responsive way. Thats what differentiate it from other card creators. Also it's intended to export cards in high resolution</h2>
+<h4 width="70%" align="center">The Prismatic Creator is a "Magic: The Gathering" card creator that allows the user to create custom cards on an interactive and easy way, its a web app, so you don't need to install anything. It allows to customize most of the aspects of a card on an immediate and responsive way. Thats what differentiate it from other card creators. Also it's intended to export cards in high resolution</h4>
 <div>
   <h3>Stack:</h3>
   <img  align="left" width="32" src="/assets/img/react-logo.png"  alt="React"/>
