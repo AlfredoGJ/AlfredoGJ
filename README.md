@@ -40,6 +40,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AlfredoGJ&repo=ThePrismaticCreator"/>
 </a>
 </div>
+<img width="30%" align="left"  src="/assets/img/The Prismatic Creator.png"  alt="Banner"/>
 <h3>SpotImage</h3>
 <h4 width="70%" align="center"> SpotImage Card Generator is a web application that allows you to create beatiful cards from your
           favorite songs, customize colors, design and share with friends in
