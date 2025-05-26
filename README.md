@@ -23,7 +23,7 @@
 <div>
 <img width="30%" align="left"  src="/assets/img/The Prismatic Creator.png"  alt="Banner"/>
 <div>
-
+<h3>The Prismatic Creator</h3>
 <h4 width="70%" align="center">The Prismatic Creator is a "Magic: The Gathering" card creator that allows the user to create custom cards on an interactive and easy way, its a web app, so you don't need to install anything. It allows to customize most of the aspects of a card on an immediate and responsive way. Thats what differentiate it from other card creators. Also it's intended to export cards in high resolution</h4>
 <div>
   <h3>Stack:</h3>
