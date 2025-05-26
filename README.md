@@ -1,5 +1,5 @@
 <img src="/assets/img/banner.png" width="100%" alt="Banner"/>
-<hr>
+<br>
 
 <h2>I'm a software Engineer with about four years of experience in frontend and backend development using javascript, node and C#. Creative and passionate to learn new things and meet new people. I like to create beautiful and useful UI, along with efficient and easy to use systems to provide the user of a joyful and smooth experience.
 </h2>
@@ -38,6 +38,25 @@
 <br/>
 <a href="https://github.com/AlfredoGJ/ThePrismaticCreator">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=AlfredoGJ&repo=ThePrismaticCreator"/>
+</a>
+</div>
+<h3>SpotImage</h3>
+<h4 width="70%" align="center"> SpotImage Card Generator is a web application that allows you to create beatiful cards from your
+          favorite songs, customize colors, design and share with friends in
+          seconds. Using the Spotify API and leveraging the Scannables function</h4>
+<div>
+  <h3>Stack:</h3>
+  <img  align="left" width="32" src="/assets/img/react-logo.png"  alt="React"/>
+  <img  align="left" width="32" src="/assets/img/redux-logo.png"  alt="Redux"/>
+  <img  align="left" width="32" src="/assets/img/typescript-logo.png"  alt="Typescript"/>
+<div>
+
+<div>
+<br/>
+<br/>
+<br/>
+<a href="https://github.com/AlfredoGJ/spotify-card-maker">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=AlfredoGJ&repo=spotify-card-maker"/>
 </a>
 </div>
 </div>
